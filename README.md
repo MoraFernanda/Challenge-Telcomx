@@ -42,4 +42,4 @@ Análisis de abandono de clientes (churn) de TelecomX usando ETL en Python y vis
 
 ## 📬 Contacto
 
-Creado por *Felipe Rosero* — para el desafío de ciencia de datos de Alura LATAM.
+Creado por *Andrea Chasi* — para el desafío de ciencia de datos de Alura LATAM.
